@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+strong {
+  color: red;
+}
+
+#show:hover {
+  background-color: yellow;
+}
